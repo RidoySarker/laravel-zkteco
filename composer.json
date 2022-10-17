@@ -1,0 +1,19 @@
+{
+    "name": "ridoy/zkteco",
+    "description": "ZKTeco Laravel Library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ridoy\\Zkteco\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RidoySarker",
+            "email": "csridoy42@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
